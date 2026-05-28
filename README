@@ -2,6 +2,10 @@
 
 PayPayでの商品販売（手動承認→自動送付）、サポートチケット、荒らし対策、プレゼント企画、認証パネルまで、サーバー運営に必要な機能をまとめた多機能Botです。
 
+bot導入リンク:https://discord.com/oauth2/authorize?client_id=1509241468252979422&permissions=8&integration_type=0&scope=bot
+サポートサーバー:https://discord.gg/mbCFnf6zDu
+※導入者は、本Botをサーバーに招待（インバイト）した時点で、本規約のすべてに同意したものとみなします。
+
 ## 目次
 - [主な機能](#-主な機能)
 - [クイックスタート（Windows）](#-クイックスタートwindows)
